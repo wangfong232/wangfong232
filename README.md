@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/wangfong232">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Phong%20Tran&fontSize=90" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wf&fontSize=90" width="100%" alt="Header Banner" />
   </a>
 
   <h1>
@@ -42,27 +42,37 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ### 📚 Future Roadmap
 - 🎮 **Game Engines:** Exploring **Unity** & C# scripting for interactive environments.
 - 🌐 REST API with ASP.NET Core
 
+### 📊 Skills Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangfong232&layout=compact&theme=tokyonight&langs_count=6" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wangfong232&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+</p>
 
+<!--
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/wangfong232/wangfong232/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
-
+-->
+<!--
 ### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangfong232&layout=compact&theme=tokyonight&langs_count=6" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=wangfong232&show_icons=true&theme=tokyonight&count_private=true" height="180" />
 </p>
+-->
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangfong232&theme=tokyonight" width="100%" />
 </p>
+-->
