@@ -20,7 +20,6 @@
 - 🎓 **Education:** 3rd-year SE Student at **FPT University** (GPA: 8.1/10).
 - 🎮 **Career Goal:** Aspiring **Game Developer** focusing on the **C#/.NET** ecosystem.
 - 🐾 **Social Impact:** Co-Founder of **Pawzzle** (Raised 450kg of rice for animal rescue).
-- 🏸 **Hobbies:** Badminton & **Mid/Adc** in Liên Quân Mobile.
 
 ### 🚀 Featured Projects
 - 🏛️ **[Văn Miếu 360° - Virtual Tour](https://arqtg-production.up.railway.app/)**
